@@ -4,7 +4,6 @@ Description: github-codepipeline
 
 Parameters:
 
-
   GitHubOwner:
     Type: String
     Default: sgaddam1178080 #replace with your github username
